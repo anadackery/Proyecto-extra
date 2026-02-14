@@ -1,0 +1,70 @@
+Algoritmo del Procedimiento – Sistema de Cotizaciones TK-U Proyecto extra
+
+1. Iniciar el programa.
+
+2. Definir el precio base de la cotización.
+
+3. Definir los porcentajes de recargo según:
+
+   * Edad del asegurado.
+   * Edad del cónyuge.
+   * Cantidad de hijos.
+   * Propiedades.
+   * Ingresos.
+
+4. Iniciar un ciclo repetitivo que se ejecute hasta que el usuario escriba la palabra “Salir”.
+
+5. Solicitar al usuario su nombre o la palabra “Salir” para finalizar.
+
+6. Si el usuario escribe “Salir”, terminar el programa.
+
+7. Si continúa, solicitar la edad del asegurado.
+
+8. Solicitar el estado civil.
+
+9. Si el usuario está casado:
+
+   * Solicitar la edad del cónyuge.
+
+10. Solicitar si posee hijos.
+
+11. Si posee hijos:
+
+* Solicitar la cantidad de hijos.
+
+12. Solicitar la cantidad de propiedades.
+
+13. Solicitar el salario mensual.
+
+14. Calcular el recargo por edad del asegurado según su rango.
+
+15. Si está casado:
+
+* Calcular el recargo por edad del cónyuge.
+
+16. Si posee hijos:
+
+* Calcular el recargo multiplicando el porcentaje por la cantidad de hijos.
+
+17. Calcular el recargo por propiedades.
+
+18. Calcular el recargo por ingresos.
+
+19. Sumar todos los recargos obtenidos.
+
+20. Calcular el precio final sumando el precio base más el recargo total.
+
+21. Mostrar al usuario:
+
+* Nombre.
+* Porcentaje del asegurado.
+* Porcentaje del cónyuge (si aplica).
+* Porcentaje por hijos (si aplica).
+* Recargo por propiedades.
+* Recargo por ingresos.
+* Recargo total.
+* Precio final.
+
+22. Regresar al inicio del ciclo para una nueva cotización.
+
+23. Finalizar el programa cuando el usuario lo indique.
